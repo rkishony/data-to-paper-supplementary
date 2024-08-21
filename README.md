@@ -6,6 +6,8 @@ This repository contains the supplementary material of the pre-print [arXiv:2404
 data-science research, starting from raw data and concluding with comprehensive, reproducible, and correct 
 scientific papers. **data-to-paper software** can be found [here](https://github.com/Technion-Kishony-lab/data-to-paper). 
 
+For the V0 version of the supplementary material [click here](https://github.com/rkishony/data-to-paper-supplementary/tree/3704b0508192ff1f68b33be2ef282249f10f1254).
+
 
 
 In 4 case studies, we showed that data-to-paper can perform full run cycles, from data alone to complete research papers, across different datasets and fields:
